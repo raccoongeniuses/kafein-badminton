@@ -1,0 +1,30 @@
+# Node
+node_modules/
+*.log
+
+# Next.js
+.next/
+out/
+.vercel/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env*
+
+# Editor
+.vscode/
+.idea/
+
+# Frontend specific
+frontend/.next/
+frontend/node_modules/
+frontend/out/
+
+# Backend Python/venv (if any)
+__pycache__/
+*.pyc
+.venv/
+ENV/
